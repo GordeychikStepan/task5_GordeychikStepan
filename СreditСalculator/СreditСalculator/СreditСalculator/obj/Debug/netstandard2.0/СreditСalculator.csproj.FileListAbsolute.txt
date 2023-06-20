@@ -1,0 +1,79 @@
+J:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\bin\Debug\netstandard2.0\СreditСalculator.deps.json
+J:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\bin\Debug\netstandard2.0\СreditСalculator.dll
+J:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\bin\Debug\netstandard2.0\СreditСalculator.pdb
+J:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.csproj.AssemblyReference.cache
+J:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.GeneratedMSBuildEditorConfig.editorconfig
+J:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+J:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+J:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.AssemblyInfoInputs.cache
+J:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.AssemblyInfo.cs
+J:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.csproj.CoreCompileInputs.cache
+J:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\XamlC.stamp
+J:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.dll
+J:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\refint\СreditСalculator.dll
+J:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.pdb
+J:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\ref\СreditСalculator.dll
+D:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\bin\Debug\netstandard2.0\СreditСalculator.deps.json
+D:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\bin\Debug\netstandard2.0\СreditСalculator.dll
+D:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\bin\Debug\netstandard2.0\СreditСalculator.pdb
+D:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.csproj.AssemblyReference.cache
+D:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.AssemblyInfoInputs.cache
+D:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.AssemblyInfo.cs
+D:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.csproj.CoreCompileInputs.cache
+D:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\XamlC.stamp
+D:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.dll
+D:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\refint\СreditСalculator.dll
+D:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.pdb
+D:\UP_01_01\Новая папка\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\ref\СreditСalculator.dll
+D:\UP_01_01\Task4\СreditСalculator\СreditСalculator\СreditСalculator\bin\Debug\netstandard2.0\СreditСalculator.deps.json
+D:\UP_01_01\Task4\СreditСalculator\СreditСalculator\СreditСalculator\bin\Debug\netstandard2.0\СreditСalculator.dll
+D:\UP_01_01\Task4\СreditСalculator\СreditСalculator\СreditСalculator\bin\Debug\netstandard2.0\СreditСalculator.pdb
+D:\UP_01_01\Task4\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.csproj.AssemblyReference.cache
+D:\UP_01_01\Task4\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\UP_01_01\Task4\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\UP_01_01\Task4\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\UP_01_01\Task4\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.AssemblyInfoInputs.cache
+D:\UP_01_01\Task4\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.AssemblyInfo.cs
+D:\UP_01_01\Task4\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.csproj.CoreCompileInputs.cache
+D:\UP_01_01\Task4\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\XamlC.stamp
+D:\UP_01_01\Task4\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.dll
+D:\UP_01_01\Task4\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\refint\СreditСalculator.dll
+D:\UP_01_01\Task4\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.pdb
+D:\UP_01_01\Task4\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\ref\СreditСalculator.dll
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\bin\Debug\netstandard2.0\СreditСalculator.deps.json
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\bin\Debug\netstandard2.0\СreditСalculator.dll
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\bin\Debug\netstandard2.0\СreditСalculator.pdb
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.csproj.AssemblyReference.cache
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.AssemblyInfoInputs.cache
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.AssemblyInfo.cs
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.csproj.CoreCompileInputs.cache
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\XamlC.stamp
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.dll
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\refint\СreditСalculator.dll
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.pdb
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\ref\СreditСalculator.dll
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\FirstPage.xaml.g.cs
+D:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\styles.css.g.cs
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\bin\Debug\netstandard2.0\СreditСalculator.deps.json
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\bin\Debug\netstandard2.0\СreditСalculator.dll
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\bin\Debug\netstandard2.0\СreditСalculator.pdb
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.csproj.AssemblyReference.cache
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.GeneratedMSBuildEditorConfig.editorconfig
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\FirstPage.xaml.g.cs
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\styles.css.g.cs
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.AssemblyInfoInputs.cache
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.AssemblyInfo.cs
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.csproj.CoreCompileInputs.cache
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\XamlC.stamp
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.dll
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\refint\СreditСalculator.dll
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\СreditСalculator.pdb
+J:\UP_01_01\Task5\СreditСalculator\СreditСalculator\СreditСalculator\obj\Debug\netstandard2.0\ref\СreditСalculator.dll

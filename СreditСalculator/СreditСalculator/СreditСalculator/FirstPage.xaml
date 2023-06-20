@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 x:Class="СreditСalculator.FirstPage">
+
+	<ContentPage.Resources>
+		<StyleSheet Source="/styles.css" />
+	</ContentPage.Resources>
+
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto" />
+			<RowDefinition Height="Auto" />
+			<RowDefinition Height="Auto" />
+			<RowDefinition Height="Auto" />
+			<RowDefinition Height="Auto" />
+		</Grid.RowDefinitions>
+
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="Auto" />
+			<ColumnDefinition Width="*" />
+		</Grid.ColumnDefinitions>
+
+		<Label Text="Welcome" 
+			   Grid.Column="1" 
+			   Grid.Row="0"
+			   VerticalOptions="Center" 
+			   HorizontalOptions="Center"
+			   FontSize="20"
+			   Margin="0,150,0,0"
+			   Grid.ColumnSpan="2"
+			   StyleClass="WelcomeLabel"/>
+		
+		<Entry x:Name="userNameEntry"
+			   Grid.Column="0" 
+			   Grid.Row="1"
+			   FontSize="17"
+			   Margin="80,30,80,0"
+			   Grid.ColumnSpan="3"
+			   Placeholder="Username"
+			   PlaceholderColor="Gray" 
+			   StyleClass="white"/>
+		<Entry x:Name="passwordEntry"
+			   Grid.Column="0" 
+			   Grid.Row="2"
+			   FontSize="17"
+			   Margin="80,-5,80,0"
+			   StyleClass="white"
+			   IsPassword="True"
+			   Grid.ColumnSpan="3"
+			   Placeholder="Password"
+			   PlaceholderColor="Gray"/>
+		<Button x:Name="inputButton"
+				Grid.Column="0" 
+				Grid.Row="3"
+				Margin="80,20,80,0"
+				Grid.ColumnSpan="3"
+				Text="Sign in"
+				Clicked="InputButton_Clicked"/>
+
+		<CheckBox x:Name="rememberMeCheckBox"
+				  Grid.Column="0" 
+				  Grid.Row="4"
+				  StyleClass="checkBox"
+				  Grid.ColumnSpan="2"
+				  Margin="73,0,0,0"/>
+
+		<Label Text="Remember me"
+			   Grid.Column="0" 
+			   Grid.Row="4" 
+			   Grid.ColumnSpan="3"
+			   Margin="105,0,0,0"
+			   VerticalOptions="Center"
+			   StyleClass="labelToRemember"/>
+
+		<Label Text="I forgot!"
+			   Grid.Column="0" 
+			   Grid.Row="4" 
+			   Grid.ColumnSpan="3"
+			   Margin="0,0,78,0"
+			   VerticalOptions="Center"
+			   HorizontalOptions="End"
+			   StyleClass="labelToRemember"/>
+
+	</Grid>
+
+</ContentPage>

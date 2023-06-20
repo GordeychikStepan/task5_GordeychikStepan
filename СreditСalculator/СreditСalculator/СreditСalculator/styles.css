@@ -1,0 +1,45 @@
+^contentpage {
+	background-color: #2F2F2F;
+}
+
+label {
+	color: white;
+	font-family: sans-serif;
+}
+
+button {
+	background-color: orangered;
+	color: white;
+	text-transform: none;
+	font-size: medium;
+	font-style: bold;
+}
+
+.labelToRemember {
+	font-size: small;
+}
+
+.helloLabel {
+	font-size: large;
+}
+
+.white {
+	color: black;
+	background-color: aliceblue;
+	font-style: bold;
+	font-family: Arial;
+}
+
+.checkBox {
+	color: white;
+}
+
+.BoldLineLabel {
+	font-style: bold;
+	text-decoration: underline;
+}
+
+.WelcomeLabel {
+	font-family: Arial;
+	font-style: bold;
+}
